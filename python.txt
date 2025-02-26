@@ -1,0 +1,16 @@
+# Program 1: Simple addition
+a = 5
+b = 10
+sum_result = a + b
+print("The sum of", a, "and", b, "is:", sum_result)
+
+# Program 2: Simple string reversal
+my_string = "hello"
+reversed_string = my_string[::-1]
+print("The reversed string is:", reversed_string)
+
+# Program 3: Simple list iteration and printing
+my_list = ["apple", "banana", "cherry"]
+print("Items in the list:")
+for item in my_list:
+    print(item)
